@@ -1,4 +1,4 @@
-# ImperativeAdminMovies movie_camera :movie_camera:
+# ImperativeAdminMovies :movie_camera:
 
 
 ### Run the administration program in the console:
